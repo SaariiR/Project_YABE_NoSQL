@@ -1,0 +1,9 @@
+# Application dependencies
+
+require:
+    - play
+    - play -> crud
+    - play -> secure
+    - play -> cobertura 2.4
+    - play -> morphia 1.2.12
+    
